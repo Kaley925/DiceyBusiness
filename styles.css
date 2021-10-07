@@ -1,0 +1,16 @@
+.dice{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    border-radius: 20%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:x-large;
+    font-weight:bolder;
+    
+}
+.container{
+    display:flex;
+    flex-wrap:wrap;
+}
