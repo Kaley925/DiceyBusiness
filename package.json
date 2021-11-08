@@ -1,0 +1,24 @@
+{
+  "name": "DiceyBusiness",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaley925/DiceyBusiness.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaley925/DiceyBusiness/issues"
+  },
+  "homepage": "https://github.com/Kaley925/DiceyBusiness#readme"
+}
